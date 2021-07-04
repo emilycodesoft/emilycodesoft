@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">A passionate code learner from Colombia and a computer engineer student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycodesoft&label=Profile%20views&color=0e75b6&style=flat" alt="emilycodesoft" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycodesoft&label=Profile%20views&color=0e75b6&style=flat" alt="emilycodesoft" /> </p> -->
 
 
 - 🔭 I’m currently working on **different projects and ideas that I get from my mind, check my git repos if you want to want to know more about them ;)**
