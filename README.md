@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
-<h3 align="center">A passionate code learner from Colombia and a computer engineer student</h3>
+<h3 align="center">An apassionate code learner from Colombia and a computer engineer student</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycodesoft&label=Profile%20views&color=0e75b6&style=flat" alt="emilycodesoft" /> </p> -->
 
 
 - 🔭 I’m currently working on **different projects and ideas that I get from my mind, check my git repos if you want to want to know more about them ;)**
 
-- 🌱 I’m currently learning **how to use properly GitHub (that's why I'm doing this), and how to design, is a hard path but I'm doing my best, also, I'd like to get in a more deeply way in Node.js and in a database(like sql or mongoDB, I use local storage, but I know the basics)**
+- 🌱 I’m currently learning **Data Structures implemented on JavaScript and Python**
 
-- 👯 I’m looking to collaborate on **whatever project, I'm appasionate to learn, share and collaborate in amazing and worth projects (I know that that project that you have in mind is worth, partners ;)?)**
+<!--- 👯 I’m looking to collaborate on **web projects that involve**
 
-- 🤝 I’m looking for help with **design please, I would like to make my apps and websites coolers and usables ;)**
+- 🤝 I’m looking for help with ****-->
 
 - 👨‍💻 All of my projects are available at [https://github.com/emilycodesoft?tab=repositories](https://github.com/emilycodesoft?tab=repositories)
 
-- 💬 Ask me about **vue, js, html( I don't know xd, ask me about how to make a table)**
+- 💬 Ask me about **Vue.js, JS, Node.js, Python**
 
 - 📫 How to reach me **emilycodesoft@gmail.com**
 
