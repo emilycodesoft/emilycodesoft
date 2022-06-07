@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
-<h3 align="center">An apassionate code learner from Colombia and a computer engineer student</h3>
+<h3 align="center"></h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycodesoft&label=Profile%20views&color=0e75b6&style=flat" alt="emilycodesoft" /> </p> -->
 
