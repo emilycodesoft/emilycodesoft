@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Emily</h1>
+<!---<h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center"></h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycodesoft&label=Profile%20views&color=0e75b6&style=flat" alt="emilycodesoft" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycodesoft&label=Profile%20views&color=0e75b6&style=flat" alt="emilycodesoft" /> </p> 
 
 
 - 🔭 I’m currently working on **different projects and ideas that I get from my mind, check my git repos if you want to want to know more about them ;)**
 
 - 🌱 I’m currently learning **Data Structures implemented on JavaScript and Python**
 
-<!--- 👯 I’m looking to collaborate on **web projects that involve**
+👯 I’m looking to collaborate on **web projects that involve**
 
-- 🤝 I’m looking for help with ****-->
+- 🤝 I’m looking for help with ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/emilycodesoft?tab=repositories](https://github.com/emilycodesoft?tab=repositories)
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilycodesoft&show_icons=true&locale=en" alt="emilycodesoft" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilycodesoft&" alt="emilycodesoft" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilycodesoft&" alt="emilycodesoft" /></p> -->
